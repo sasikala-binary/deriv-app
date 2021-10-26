@@ -7,7 +7,7 @@
   "error-component.js": "/trader/js/trader.error-component.2fda8d1dcbcfeada2297.js",
   "contract.js": "/trader/js/trader.contract.1045ecf48b634be02c12.js",
   "cfd.css": "/trader/css/trader.cfd.0a5c1c688f946432b3cb.css",
-  "cfd.js": "/trader/js/trader.cfd.9b2d3b4077554ed84ae6.js",
+  "cfd.js": "/trader/js/trader.cfd.588659a50eef005b03cb.js",
   "reports.css": "/trader/css/trader.reports.bc43bcd3795ef01e5438.css",
   "reports.js": "/trader/js/trader.reports.f507b710320f91d13fc1.js",
   "screen-small.css": "/trader/css/trader.screen-small.71dabe5d9defd29ad33e.css",
@@ -17,5 +17,5 @@
   "two-month-picker.js": "/trader/js/trader.two-month-picker.73796c6d17ac1cf0a81b.js",
   "trader/js/trader.vendors-node_modules_formik_dist_formik_esm_js.js": "/trader/js/trader.vendors-node_modules_formik_dist_formik_esm_js.f6e9e04079addd5c0684.js",
   "trader/js/trader.vendors-node_modules_classnames_index_js-node_modules_extend_index_js-node_modules_lodash_deb-c9ff82.js": "/trader/js/trader.vendors-node_modules_classnames_index_js-node_modules_extend_index_js-node_modules_lodash_deb-c9ff82.04abdac540593616fcb6.js",
-  "trader/js/trader.Modules_Trading_Components_Form_TradeParams_Multiplier_expiration_jsx-Modules_Trading_Compone-90e657.js": "/trader/js/trader.Modules_Trading_Components_Form_TradeParams_Multiplier_expiration_jsx-Modules_Trading_Compone-90e657.63f4bdff4d2a329de111.js"
+  "trader/js/trader.Modules_Trading_Components_Form_TradeParams_Multiplier_expiration_jsx-Modules_Trading_Compone-90e657.js": "/trader/js/trader.Modules_Trading_Components_Form_TradeParams_Multiplier_expiration_jsx-Modules_Trading_Compone-90e657.1272bc7aa11bb66a7e1f.js"
 }
